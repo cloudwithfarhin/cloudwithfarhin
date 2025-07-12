@@ -57,6 +57,7 @@ Here’s what I’ll be showcasing on this GitHub profile soon:
 - LinkedIn: [linkedin.com/in/farhin-mirza-b05255172](https://linkedin.com/in/farhin-mirza-b05255172)
 - Email: farhin6202@gmail.com
 - GitHub: [github.com/cloudwithfarhin](https://github.com/cloudwithfarhin)
+- Medium: [medium.com/@farhin6202](https://medium.com/@farhin6202)
 
 ---
 
