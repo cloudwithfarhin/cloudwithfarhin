@@ -16,21 +16,24 @@
 ## 🔧 Technologies & Tools I Work With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure APIM-0089D6?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure App Gateway-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure Function App-0062AD?logo=azurefunctions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure App Services-0089D6?logo=windows&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loki-FF8800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Promtail-FF8800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-003366?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
+
 </p>
 
 
